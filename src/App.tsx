@@ -2,7 +2,6 @@ import List from './List';
 import './App.css';
 
 function App() {
-
   const list = [
     {
       type: 'video',
